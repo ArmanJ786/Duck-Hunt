@@ -1,0 +1,10 @@
+shot.wav: Sound effect played when the player fires a shot.
+duck.wav: Quack sound triggered when a duck is hit or when clicking the duck section in the intro.
+round.wav: Sound played when transitioning to the next round.
+click.wav: Click sound for interacting with start, reset, or credit buttons.
+lose.wav: Sound played when the player fails a round with too many missed ducks.
+bush.wav: Sound effect when a dead duck falls into the bush.
+empty.wav: Sound played when attempting to shoot with no ammo left.
+reload.wav: Sound triggered when the player initiates a reload.
+day.wav: Background ambient sound played during daytime (3:30 AM to 8:00 PM).
+night.wav: Background ambient sound played during nighttime (8:00 PM to 3:30 AM).
