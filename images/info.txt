@@ -1,0 +1,46 @@
+icon.ico: Window icon for the game, displayed in the taskbar and title bar.
+intro.png: Intro screen image displayed before the game starts.
+bg.png: Daytime background image used during gameplay from 3:30 AM to 8:00 PM.
+bg2.png: Nighttime background image used during gameplay from 8:00 PM to 3:30 AM.
+bush.png: Foreground bush image where fallen ducks land.
+pause.png: Pause screen image displayed when the game is paused.
+p_start.png: Hover effect image for the start button on the intro screen.
+p_reset.png: Hover effect image for the reset button on the intro screen.
+1_f.png: Partial success animation image shown at the end of a round with 6–9 ducks hit.
+2_f.png: Perfect success animation image shown at the end of a round with all 10 ducks hit.
+aim.png: Cursor image used as the aiming reticle during gameplay.
+a_1_g.png: Green duck angle frame 1 for flying animation (60% spawn probability, 100 points).
+a_2_g.png: Green duck angle frame 2 for flying animation.
+a_3_g.png: Green duck angle frame 3 for flying animation.
+s_1_g.png: Green duck straight frame 1 for flying animation.
+s_2_g.png: Green duck straight frame 2 for flying animation.
+s_3_g.png: Green duck straight frame 3 for flying animation.
+d_g.png: Green duck dead image shown briefly after being shot.
+f_1_g.png: Green duck fall frame 1 for falling animation after being shot.
+f_2_g.png: Green duck fall frame 2 for falling animation.
+f_3_g.png: Green duck fall frame 3 for falling animation.
+f_4_g.png: Green duck fall frame 4 for falling animation.
+a_1_r.png: Red duck angle frame 1 for flying animation (25% spawn probability, 200 points).
+a_2_r.png: Red duck angle frame 2 for flying animation.
+a_3_r.png: Red duck angle frame 3 for flying animation.
+s_1_r.png: Red duck straight frame 1 for flying animation.
+s_2_r.png: Red duck straight frame 2 for flying animation.
+s_3_r.png: Red duck straight frame 3 for flying animation.
+d_r.png: Red duck dead image shown briefly after being shot.
+f_1_r.png: Red duck fall frame 1 for falling animation after being shot.
+f_2_r.png: Red duck fall frame 2 for falling animation.
+f_3_r.png: Red duck fall frame 3 for falling animation.
+f_4_r.png: Red duck fall frame 4 for falling animation.
+a_1_b.png: Blue duck angle frame 1 for flying animation (15% spawn probability, 500 points).
+a_2_b.png: Blue duck angle frame 2 for flying animation.
+a_3_b.png: Blue duck angle frame 3 for flying animation.
+s_1_b.png: Blue duck straight frame 1 for flying animation.
+s_2_b.png: Blue duck straight frame 2 for flying animation.
+s_3_b.png: Blue duck straight frame 3 for flying animation.
+d_b.png: Blue duck dead image shown briefly after being shot.
+f_1_b.png: Blue duck fall frame 1 for falling animation after being shot.
+f_2_b.png: Blue duck fall frame 2 for falling animation.
+f_3_b.png: Blue duck fall frame 3 for falling animation.
+f_4_b.png: Blue duck fall frame 4 for falling animation.
+pass_duck.png: Image shown in the duck tracker for a successfully hit duck.
+fail_duck.png: Image shown in the duck tracker for a missed duck.
